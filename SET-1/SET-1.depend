@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1600583380 source:c:\users\mahe\desktop\set-1\account_test.cc
+	<gtest/gtest.h>
+	"Account.h"
+
+1600578143 c:\users\mahe\desktop\set-1\account.h
+	<iostream>
+	<string>
+
+1600583920 source:c:\users\mahe\desktop\set-1\box_test.cc
+	<gtest/gtest.h>
+	"Box.h"
+
+1600578314 c:\users\mahe\desktop\set-1\box.h
+	<iostream>
+	<string>
+
+1600583880 source:c:\users\mahe\desktop\set-1\customer_test.cc
+	<iostream>
+	"Customer.h"
+	<gtest/gtest.h>
+
+1600578232 c:\users\mahe\desktop\set-1\customer.h
+	<iostream>
+	<string>
+
+1600582943 source:c:\users\mahe\desktop\set-1\image_test.cc
+	<gtest/gtest.h>
+	"Image.h"
+
+1600578170 c:\users\mahe\desktop\set-1\image.h
+	<iostream>
+	<string>
+	<cmath>
+
+1600582184 source:c:\users\mahe\desktop\set-1\ipaddress.cc
+	<gtest/gtest.h>
+	"IPaddress.h"
+
+1600577986 c:\users\mahe\desktop\set-1\ipaddress.h
+	<iostream>
+	<string>
+	<cmath>
+
+1600583434 source:c:\users\mahe\desktop\set-1\point_test.cc
+	<iostream>
+	"Point.h"
+	<gtest/gtest.h>
+
+1600577955 c:\users\mahe\desktop\set-1\point.h
+	<iostream>
+	<string>
+	<cmath>
+
+1600583808 source:c:\users\mahe\desktop\set-1\main.cpp
+	<iostream>
+	"Account.h"
+	"Box.h"
+	"Color.h"
+	"Image.h"
+	"IPaddress.h"
+	"Point.h"
+	"Customer.h"
+	<cmath>
+
+1600580630 c:\users\mahe\desktop\set-1\color.h
+	<iostream>
+	<string>
+	<cmath>
+
+1600583977 source:c:\users\mahe\desktop\set-1\color_test.cc
+	<iostream>
+	"Color.h"
+	<gtest/gtest.h>
+
+1600582184 source:c:\users\mahe\desktop\set-1\ipaddress_test.cc
+	<gtest/gtest.h>
+	"IPaddress.h"
+
