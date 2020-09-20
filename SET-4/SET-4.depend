@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600624355 source:c:\users\mahe\desktop\set-4\main.cpp
+	<iostream>
+	<cmath>
+	"gcomplex.h"
+	"garray.h"
+	"gstack.h"
+	"gpoint.h"
+
+1600624041 c:\users\mahe\desktop\set-4\gcomplex.h
+
+1600624480 c:\users\mahe\desktop\set-4\garray.h
+	<iostream>
+
+1600624343 c:\users\mahe\desktop\set-4\gstack.h
+	<iostream>
+	<vector>
+
+1600624273 c:\users\mahe\desktop\set-4\gpoint.h
+
