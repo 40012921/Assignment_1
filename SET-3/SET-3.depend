@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1600618276 source:c:\users\mahe\desktop\set-3\main.cpp
+	<iostream>
+	<string>
+	<cstdint>
+	<cmath>
+	"Polygon.h"
+	"ISShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Employee.h"
+	"IEmployee.h"
+
+1600608985 c:\users\mahe\desktop\set-3\polygon.h
+	"ISShape.h"
+
+1600610546 c:\users\mahe\desktop\set-3\isshape.h
+
+1600608695 c:\users\mahe\desktop\set-3\rectangle.h
+	"Polygon.h"
+
+1600608654 c:\users\mahe\desktop\set-3\triangle.h
+	"Polygon.h"
+
+1600610613 c:\users\mahe\desktop\set-3\circle.h
+	"ISShape.h"
+	"Polygon.h"
+
+1600618348 c:\users\mahe\desktop\set-3\employee.h
+	"IEmployee.h"
+	<cstdint>
+
+1600618500 c:\users\mahe\desktop\set-3\iemployee.h
+	<iostream>
+	<cstdint>
+
